@@ -4,7 +4,7 @@
  Author      : Malcolm Herring
  Version     : 0.1
  Description : RaspberryPi TFT backlight timeout
- Copyright   : © 2016 Malcolm Herring.
+ Copyright   : © 2018 Malcolm Herring.
 
  light is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
